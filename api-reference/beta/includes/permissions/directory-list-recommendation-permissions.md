@@ -1,0 +1,6 @@
+|Permission type|Least privileged permission|Higher privileged permissions|
+|:---|:---|:---|
+|Delegated (work or school account)|DirectoryRecommendations.Read.All|DirectoryRecommendations.ReadWrite.All|
+|Delegated (personal Microsoft account)|Not supported.|Not supported.|
+|Application|DirectoryRecommendations.Read.All|DirectoryRecommendations.ReadWrite.All|
+

@@ -1,0 +1,6 @@
+|Permission type|Least privileged permission|Higher privileged permissions|
+|:---|:---|:---|
+|Delegated (work or school account)|ChannelSettings.ReadWrite.All|Directory.ReadWrite.All, Group.ReadWrite.All|
+|Delegated (personal Microsoft account)|Not supported.|Not supported.|
+|Application|ChannelSettings.ReadWrite.Group|ChannelSettings.ReadWrite.All, Directory.ReadWrite.All, Group.ReadWrite.All|
+

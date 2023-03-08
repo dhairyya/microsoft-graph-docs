@@ -1,0 +1,6 @@
+|Permission type|Least privileged permission|Higher privileged permissions|
+|:---|:---|:---|
+|Delegated (work or school account)|User.ReadWrite.All|Not supported.|
+|Delegated (personal Microsoft account)|Not supported.|Not supported.|
+|Application|User.ReadWrite.All|Not supported.|
+

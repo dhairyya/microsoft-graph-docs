@@ -1,0 +1,6 @@
+|Permission type|Least privileged permission|Higher privileged permissions|
+|:---|:---|:---|
+|Delegated (work or school account)|GroupMember.Read.All|Directory.Read.All, Group.Read.All, Group.ReadWrite.All, GroupMember.ReadWrite.All|
+|Delegated (personal Microsoft account)|Not supported.|Not supported.|
+|Application|GroupMember.Read.All|Directory.Read.All, Group.Read.All, Group.ReadWrite.All, GroupMember.ReadWrite.All|
+

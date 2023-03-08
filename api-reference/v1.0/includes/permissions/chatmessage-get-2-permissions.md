@@ -1,0 +1,6 @@
+|Permission type|Least privileged permission|Higher privileged permissions|
+|:---|:---|:---|
+|Delegated (work or school account)|ChannelMessage.Read.All|Chat.ReadWrite, Chat.Read, Group.Read.All, Group.ReadWrite.All|
+|Delegated (personal Microsoft account)|Not supported.|Not supported.|
+|Application|ChannelMessage.Read.Group|ChannelMessage.Read.All, Chat.Read.All, Chat.ReadWrite.All, ChatMessage.Read.Chat, Group.Read.All, Group.ReadWrite.All|
+

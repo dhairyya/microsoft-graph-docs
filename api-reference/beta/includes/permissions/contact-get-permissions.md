@@ -1,0 +1,6 @@
+|Permission type|Least privileged permission|Higher privileged permissions|
+|:---|:---|:---|
+|Delegated (work or school account)|Contacts.ReadWrite|Contacts.Read|
+|Delegated (personal Microsoft account)|Contacts.Read|Contacts.ReadWrite|
+|Application|Contacts.Read|Contacts.ReadWrite|
+

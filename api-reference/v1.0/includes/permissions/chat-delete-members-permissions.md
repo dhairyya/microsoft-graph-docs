@@ -1,0 +1,6 @@
+|Permission type|Least privileged permission|Higher privileged permissions|
+|:---|:---|:---|
+|Delegated (work or school account)|ChatMember.ReadWrite|Not supported.|
+|Delegated (personal Microsoft account)|Not supported.|Not supported.|
+|Application|Chat.Manage.Chat|ChatMember.ReadWrite.All|
+

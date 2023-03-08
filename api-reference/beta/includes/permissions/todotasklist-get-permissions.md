@@ -1,0 +1,6 @@
+|Permission type|Least privileged permission|Higher privileged permissions|
+|:---|:---|:---|
+|Delegated (work or school account)|Tasks.ReadWrite|Not supported.|
+|Delegated (personal Microsoft account)|Tasks.ReadWrite|Not supported.|
+|Application|Tasks.Read.All|Tasks.ReadWrite.All|
+
